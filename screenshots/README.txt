@@ -1,0 +1,1 @@
+Preview images are illustrative design previews generated for the project package. Open index.html with Live Server for the interactive website.
